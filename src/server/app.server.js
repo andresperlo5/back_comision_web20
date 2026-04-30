@@ -1,3 +1,4 @@
+require("../db/config.db");
 const express = require("express"); //conmonJS
 const morgan = require("morgan");
 

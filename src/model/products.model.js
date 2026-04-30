@@ -1,0 +1,2 @@
+/* el modelo o configuracion de 
+como quiero que valide mongoose a los objetos que el front envie */
